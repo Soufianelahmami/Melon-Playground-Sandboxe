@@ -1,0 +1,75 @@
+{"ads":{
+
+
+  "unity_inter":"Interstitial_Android",
+  "unity_banner":"Banner_Android",
+  "unity_reward":"Rewarded_Android",
+  "unity_gameid":"5082535",
+
+
+  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+
+
+  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+  "admob_native":"ca-app-pub-3940256099942544/2247696110",
+  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
+
+
+  "yandex_banner":"R-M-DEMO-320x100",
+  "yandex_inter":"R-M-DEMO-interstitial",
+  "yandex_native":"R-M-DEMO-native-i",
+  "yandex_reward":"demo-rewarded-yandex",
+
+
+  "show_ad_dialog":"yes",
+  "ads_picture":"https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw",
+  "ads_link":"https://play.google.com/store/apps/details?id=org.telegram.messenger",
+  "banner_network_choice":"admob",
+  "interstisial_network_choice":"admob",
+  "reward_network_choice":"admob",
+  "native_network_choice":"admob"
+
+
+
+
+},
+
+  "my_data":[
+    {"title":"title1 ser",
+      "desc":"description1 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title2 ser",
+      "desc":"description2 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title3 ser",
+      "desc":"description3 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title4 ser",
+      "desc":"description4 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title5 ser",
+      "desc":"description5 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title6 ser",
+      "desc":"description6 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title7 ser",
+      "desc":"description7 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+
+    {"title":"title8 ser",
+      "desc":"description8 ser",
+      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  ]
+
+}
